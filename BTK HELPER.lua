@@ -5,6 +5,6 @@ return {
 926572, -- Tvers
 254684, -- ZENN
 580535, -- Kiting
-908138 -- Brofus
-  
+908138, -- Brofus
+9685 -- Dann
 }
