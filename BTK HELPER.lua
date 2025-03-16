@@ -4,6 +4,7 @@ return {
 514984, -- PineappleFIN
 926572, -- Tvers
 254684, -- ZENN
-580535 -- Kiting
+580535, -- Kiting
+908138 -- Brofus
   
 }
