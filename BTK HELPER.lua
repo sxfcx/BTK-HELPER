@@ -6,5 +6,6 @@ return {
 254684, -- ZENN
 580535, -- Kiting
 908138, -- Brofus
-907136 -- Dann
+907136, -- Dann
+679126 -- Youknowfandz
 }
