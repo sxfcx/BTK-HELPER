@@ -8,5 +8,6 @@ return {
 908138, -- Brofus
 907136, -- Dann
 697126, -- YouKnowFandz
-491997 -- Diana
+491997, -- Diana
+380470 -- Mammedoff
 }
