@@ -9,5 +9,6 @@ return {
 907136, -- Dann
 697126, -- YouKnowFandz
 491997, -- Diana
-380470 -- Mammedoff
+380470, -- Mammedoff
+211902 -- JaNizee
 }
