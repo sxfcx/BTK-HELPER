@@ -10,5 +10,6 @@ return {
 697126, -- YouKnowFandz
 491997, -- Diana
 380470, -- Mammedoff
-211902 -- JaNizee
+211902, -- JaNizer
+124783 -- JourneyEvertDay
 }
